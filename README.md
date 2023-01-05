@@ -27,4 +27,13 @@ bench get-app https://github.com/frappe/erpnext --branch version-13
 
 # install erpnext app in the site
 
-bench --site [side-name] install-app erpnext
+bench --site [site-name] install-app erpnext
+
+
+# create an app
+bench new-app [app-name]
+
+# install the app created
+bench install-app [app-name]
+
+
