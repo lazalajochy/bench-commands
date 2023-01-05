@@ -23,6 +23,9 @@ note: this file needs to be created in the folder sites
 to install the erpnext app you to be in the root of the proyect and run the next command:
 
 bench get-app https://github.com/frappe/erpnext --branch version-13
+or 
+
+bench get-app erpnext --branch version-13
 
 
 # install erpnext app in the site
