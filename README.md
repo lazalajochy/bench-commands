@@ -40,3 +40,9 @@ bench new-app [app-name]
 bench install-app [app-name]
 
 
+
+
+# guia alternativa
+https://github.com/sihaysistema/Guia-ERPNext/blob/master/Aprendiendo-a-usar-ERPNext.md#52383---cantidad-de-inventario-proyectado-video-248
+
+
