@@ -51,3 +51,7 @@ https://github.com/sihaysistema/Guia-ERPNext/blob/master/Aprendiendo-a-usar-ERPN
 https://github.com/frappe/frappe/wiki/App-Development-using-GitHub
 
 
+
+# Install ERPNext and frappe on Windows
+https://github.com/frappe/frappe_docker/blob/main/docs/development.md
+
